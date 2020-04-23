@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="lists_title">Vaši popisi</string>
     <!-- Tab -->
+    <string name="lists_tab_blocked">Blokirano</string>
+    <string name="lists_tab_allowed">Dopušteno</string>
+    <string name="lists_tab_redirected">Preusmjereni</string>
     <!-- Menu -->
-    <!-- Filter dialog -->
+    <string name="lists_menu_filter">Filtriranje poslužitelja</string>
     <!-- Edition dialog -->
     <string name="list_add_dialog_black">Dodaj poslužitelj na popis blokiranih</string>
     <string name="list_add_dialog_white">Dodaj poslužitelj u popis neblokiranih</string>
